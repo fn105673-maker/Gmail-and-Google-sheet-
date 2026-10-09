@@ -1,4 +1,4 @@
 # Gmail-and-Google-sheet-
-this is my first prject
+This is my first project
 <br>
-author - fahad nasir
+author - Fahad Nasir
